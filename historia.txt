@@ -3,6 +3,7 @@ Roberto tiene 21 años y nació en México,
 EDO México.
 
 Escribiendo desde otra computadora y otra cuenta de GIT
+Ahora estoy trabajando como un colaborador
 
 Hoy hablaremos de su vida.
 
