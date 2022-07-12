@@ -2,6 +2,8 @@ Esta es la historia de Roberto.
 Roberto tiene 21 años y nació en México,
 EDO México.
 
+Escribiendo desde otra computadora y otra cuenta de GIT
+
 Hoy hablaremos de su vida.
 
 Tiene una estatura promedio.
